@@ -1,0 +1,35 @@
+# File temporanei e build
+*.jar
+*.war
+*.class
+*.log
+target/
+build/
+.gradle/
+.idea/
+.vscode/
+.DS_Store
+
+# Variabili d'ambiente
+.env
+.local# File temporanei e build
+*.jar
+*.war
+*.class
+*.log
+target/
+build/
+.gradle/
+.idea/
+.vscode/
+.DS_Store
+
+# Variabili d'ambiente
+.env
+.local.env
+.env.local
+.env.example
+.env.template
+.env.local.env
+.env.local.template
+.env.local.example
