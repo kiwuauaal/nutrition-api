@@ -1,0 +1,6 @@
+id,name,age,weight,height,gender,activity_level,created_at
+167ea1ad-92c1-4da0-bf0b-b536b1adefa2,Marco Rossi,32,78.5,180,male,active,2026-01-15T00:00:00Z
+b60a2b8a-4ae2-4662-b143-3d4c7e264e75,Francesca Bianchi,28,65.2,168,female,moderate,2026-01-16T00:00:00Z
+ab129a1c-eca8-4630-9949-013d7cce2da3,Luigi Verdi,45,85.0,175,male,sedentary,2026-01-17T00:00:00Z
+2d6b6940-6e19-4086-8164-461b6a41ac51,Anna Neri,35,62.0,165,female,light,2026-01-18T00:00:00Z
+e83d86e7-fc00-49f8-8ced-8283a3f00fba,Giuseppe Ferrari,40,72.5,172,male,moderate,2026-01-19T00:00:00Z

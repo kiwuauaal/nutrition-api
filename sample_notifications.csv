@@ -1,0 +1,26 @@
+id,user_id,message,timestamp,type,read
+1eb19c33-5fd2-44b7-b9e2-bb242bac5955,167ea1ad-92c1-4da0-bf0b-b536b1adefa2,Ricorda di registrare il tuo pasto colazione!,2026-02-15T16:50:23Z,meal_reminder,False
+28b21d16-f448-4b3a-abb3-5d135db72877,167ea1ad-92c1-4da0-bf0b-b536b1adefa2,Ricorda di registrare il tuo pasto pranzo!,2026-02-14T16:50:23Z,meal_reminder,False
+3fa43d29-2f2a-4731-952f-d7994331f613,167ea1ad-92c1-4da0-bf0b-b536b1adefa2,Ricorda di registrare il tuo pasto cena!,2026-02-13T16:50:23Z,meal_reminder,False
+d25c9567-6aed-4a44-bb5d-bb131903ca16,167ea1ad-92c1-4da0-bf0b-b536b1adefa2,Ricorda di registrare il tuo pasto colazione!,2026-02-12T16:50:23Z,meal_reminder,False
+1ecaff49-6275-4e9f-8026-203b6cc5f9a3,167ea1ad-92c1-4da0-bf0b-b536b1adefa2,Ricorda di registrare il tuo pasto pranzo!,2026-02-11T16:50:23Z,meal_reminder,False
+e1d05616-0da7-4f6a-9b3f-a0c3dfe8bf8b,b60a2b8a-4ae2-4662-b143-3d4c7e264e75,Ricorda di registrare il tuo pasto colazione!,2026-02-15T16:50:23Z,meal_reminder,False
+4593b72d-6038-4a32-a35b-17377cbc98ff,b60a2b8a-4ae2-4662-b143-3d4c7e264e75,Ricorda di registrare il tuo pasto pranzo!,2026-02-14T16:50:23Z,meal_reminder,False
+9042d7d5-6176-47d3-8192-1cda0532baec,b60a2b8a-4ae2-4662-b143-3d4c7e264e75,Ricorda di registrare il tuo pasto cena!,2026-02-13T16:50:23Z,meal_reminder,False
+39ea1052-9520-438c-8889-9182b4c63590,b60a2b8a-4ae2-4662-b143-3d4c7e264e75,Ricorda di registrare il tuo pasto colazione!,2026-02-12T16:50:23Z,meal_reminder,False
+45398fcc-358f-4b69-b832-c1b612c2a058,b60a2b8a-4ae2-4662-b143-3d4c7e264e75,Ricorda di registrare il tuo pasto pranzo!,2026-02-11T16:50:23Z,meal_reminder,False
+3d28ff86-b3c0-4a2c-8bc3-d82bef620642,ab129a1c-eca8-4630-9949-013d7cce2da3,Ricorda di registrare il tuo pasto colazione!,2026-02-15T16:50:23Z,meal_reminder,False
+72909e92-fb2e-4c05-b323-4455a3139219,ab129a1c-eca8-4630-9949-013d7cce2da3,Ricorda di registrare il tuo pasto pranzo!,2026-02-14T16:50:23Z,meal_reminder,False
+a6b3f3b7-2767-4a67-8af6-536dd5152ad9,ab129a1c-eca8-4630-9949-013d7cce2da3,Ricorda di registrare il tuo pasto cena!,2026-02-13T16:50:23Z,meal_reminder,False
+f5e6feb6-8ff7-4202-ad9c-0ffd49456087,ab129a1c-eca8-4630-9949-013d7cce2da3,Ricorda di registrare il tuo pasto colazione!,2026-02-12T16:50:23Z,meal_reminder,False
+f130df87-9bc9-4e4c-b490-b975121848fe,ab129a1c-eca8-4630-9949-013d7cce2da3,Ricorda di registrare il tuo pasto pranzo!,2026-02-11T16:50:23Z,meal_reminder,False
+c92e7b80-54a0-4ec3-ba93-358cd78c5702,2d6b6940-6e19-4086-8164-461b6a41ac51,Ricorda di registrare il tuo pasto colazione!,2026-02-15T16:50:23Z,meal_reminder,False
+0171f40d-27db-44d5-9257-e720d4b8b090,2d6b6940-6e19-4086-8164-461b6a41ac51,Ricorda di registrare il tuo pasto pranzo!,2026-02-14T16:50:23Z,meal_reminder,False
+283ae679-aa1a-4d06-bbc4-a4e83a56cc14,2d6b6940-6e19-4086-8164-461b6a41ac51,Ricorda di registrare il tuo pasto cena!,2026-02-13T16:50:23Z,meal_reminder,False
+ab168a35-e8cf-4469-8900-9439796deb8f,2d6b6940-6e19-4086-8164-461b6a41ac51,Ricorda di registrare il tuo pasto colazione!,2026-02-12T16:50:23Z,meal_reminder,False
+262fd732-3d8d-4c27-874b-5f9af930a53d,2d6b6940-6e19-4086-8164-461b6a41ac51,Ricorda di registrare il tuo pasto pranzo!,2026-02-11T16:50:23Z,meal_reminder,False
+7ef91e77-ba23-47aa-9fd9-6f768a765f1e,e83d86e7-fc00-49f8-8ced-8283a3f00fba,Ricorda di registrare il tuo pasto colazione!,2026-02-15T16:50:23Z,meal_reminder,False
+fe3ca33d-4965-4cf4-bb04-bb45a51a97d6,e83d86e7-fc00-49f8-8ced-8283a3f00fba,Ricorda di registrare il tuo pasto pranzo!,2026-02-14T16:50:23Z,meal_reminder,False
+07ac8db4-0ee5-4c0b-9dd6-6247f3ab5e4a,e83d86e7-fc00-49f8-8ced-8283a3f00fba,Ricorda di registrare il tuo pasto cena!,2026-02-13T16:50:23Z,meal_reminder,False
+b949f9c3-d78b-4b9d-b128-c2b9e7bb6c23,e83d86e7-fc00-49f8-8ced-8283a3f00fba,Ricorda di registrare il tuo pasto colazione!,2026-02-12T16:50:23Z,meal_reminder,False
+c2ab48ac-1198-4535-b7c7-48a47c358f3b,e83d86e7-fc00-49f8-8ced-8283a3f00fba,Ricorda di registrare il tuo pasto pranzo!,2026-02-11T16:50:23Z,meal_reminder,False
